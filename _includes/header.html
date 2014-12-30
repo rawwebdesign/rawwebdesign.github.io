@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Brad Spencer | Web Developer in Columbus, Ohio –  – </title>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
   <meta name="description" content="">
   <meta name="author" content="">
 
@@ -49,30 +49,3 @@
           <a class="button button-primary" href='/pages/estimate.html'>Free Estimate</a>
         </div>
       </div>
-
-  <h1 id="nice-to-meet-you">Nice to meet you</h1>
-
-
-  
-</div><!-- end of container div -->
-
-
-  <!-- Google Analytics -->
-  <script type="text/javascript">
-
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-33397759-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-  </script>
-
-<!-- End Document
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-</body>
-</html>
