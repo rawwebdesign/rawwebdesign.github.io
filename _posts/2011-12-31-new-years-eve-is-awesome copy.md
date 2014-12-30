@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Brad Spencer | Web Developer in Columbus, Ohio
+title: Sample Blog Post
 ---
 
 ### You Need Help with WordPress?

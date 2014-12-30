@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: Brad Spencer | Web Developer in Columbus, Ohio
 ---
 
