@@ -1,9 +1,8 @@
 ---
-layout: default
-title: Brad Spencer | Web Developer in Columbus, Ohio
+layout: blog
+title_tag: WordPress Developer in Columbus, Ohio | Bradley Spencer
+title: Your Friendly WordPress Developer in Columbus, Ohio
 ---
-
-### You Need Help with WordPress?
 
 WordPress takes a specialized skill set that takes time to master- even for the most experienced web developers. Are you using WordPress but want to take your website to the next level?  Let me help.
 

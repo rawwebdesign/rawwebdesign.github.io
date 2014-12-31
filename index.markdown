@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Brad Spencer | Web Developer in Columbus, Ohio
+title_tag: Brad Spencer | Web Developer in Columbus, Ohio
+title: Need a Friendly Web Developer?
 ---
 
-# Nice to meet you
-
+Lorem ipsum
